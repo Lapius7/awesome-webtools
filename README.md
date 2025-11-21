@@ -5,13 +5,13 @@ Webで使える便利なサイト・ツールをカテゴリ別に整理した�
 
 ---
 
-### [Lapius7の自作](https://github.com/Lapius7/awesome-webtools/self)
+### [自作サービス](https://github.com/Lapius7/awesome-webtools/wiki/%E8%87%AA%E4%BD%9C%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
+
+### 🤖 AI ツール
 
 ### 🎨 デザイン・画像編集
 
 ### 💻 開発・プログラミング
-
-### 🤖 AI ツール
 
 ### 🔧 作業効率化・ユーティリティ
 
